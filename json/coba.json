@@ -8,9 +8,10 @@
 			"coding",
 			"singing"
 	],
-	"pembimbing 1" : "Ade sukendar",
-	"pembimbing 2" : "Belum Tau"
-
+		"pembimbing" : {
+			"pembimbing1" : "Ade sukendar",
+			"pembimbing2" : "Belum Tau"
+		}
 	},
 
 	{
@@ -22,8 +23,10 @@
 			"coding",
 			"singing"
 	],
-	"pembimbing 1" : "Ade sukendar",
-	"pembimbing 2" : "Belum Tau"
+	"pembimbing" : {
+			"pembimbing1" : "Ade sukendar",
+			"pembimbing2" : "Belum Tau"
+		}
 
 	}
 ]
